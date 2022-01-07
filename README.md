@@ -57,7 +57,7 @@ You can deploy this bot anywhere.
 <p>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/Tanujairam123/Rexadvautofilter">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  <img src="https://www.herokucdn.com/learningbots79/button.svg" alt="Deploy">
 </a>
 </p>
 </details>
