@@ -403,7 +403,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🎀 ᴜᴘᴅᴀᴛᴇ', url='https://t.me/Tamil_moviesdaa')
             ],[
-            InlineKeyboardButton('ℹ🔥 ʜᴇʟᴘ', callback_data='help'),
+            InlineKeyboardButton('🔥 ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
             ],[
             InlineKeyboardButton('💥 ɢʀᴏᴜᴘ',url='https://t.me/Tamil_moviesdaa'),
