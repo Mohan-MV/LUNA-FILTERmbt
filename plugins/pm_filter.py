@@ -401,13 +401,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ', url='https://t.me/Tamil_moviesdaa')
+            InlineKeyboardButton('🎀 ᴜᴘᴅᴀᴛᴇ', url='https://t.me/Tamil_moviesdaa')
             ],[
-            InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', callback_data='help'),
+            InlineKeyboardButton('ℹ🔥 ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
             ],[
-            InlineKeyboardButton('🎨 ɢʀᴏᴜᴘ',url='https://t.me/Tamil_moviesdaa'),
+            InlineKeyboardButton('💥 ɢʀᴏᴜᴘ',url='https://t.me/Tamil_moviesdaa'),
             InlineKeyboardButton('👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ',url='https://t.me/balaSmurugan')
+            ],[
+            InlineKeyboardButton('💖 ʟᴜɴᴀ ʙᴏᴛ',url='https://t.me/rb_luna_bot')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
