@@ -8,5 +8,5 @@ else
 fi
 cd /LUNA-NO-FEATURES
 pip3 install -U -r requirements.txt
-echo "...."
+echo "Starting Luna❤️...."
 python3 bot.py
