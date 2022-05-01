@@ -12,10 +12,10 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝙻𝚄𝙽𝙰 𝙸𝚂 𝙽𝙾𝚃 𝙰𝙽 𝙾𝙿𝙴𝙽 𝚂𝙾𝚄𝚁𝙲𝙴 𝙿𝚁𝙾𝙹𝙴𝙲𝚃. 
-- 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚄𝚁 𝙳𝙴𝚅𝚂 𝙾𝙽𝙻𝚈 𝙵𝙾𝚁 𝚁𝙴𝙿𝙾𝚁𝚃𝙸𝙽𝙶 𝙱𝚄𝙶𝚂.
+- 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚄𝚁 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 𝙾𝙽𝙻𝚈 𝙵𝙾𝚁 𝚁𝙴𝙿𝙾𝚁𝚃𝙸𝙽𝙶 𝙱𝚄𝙶𝚂.
 
-<b>DEVS:</b>
-- <a href=https://t.me/Tamil_moviesdaa>𝚃𝙰𝙼𝙸𝙻-𝙼𝙾𝚅𝙸𝙴𝚂</a>"""
+<b>DEVELOPER:</b>
+- <a href=https://t.me/balaSmurugan>𝙱𝙰𝙻𝙰𝙼𝚄𝚁𝚄𝙶𝙰𝙽</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
