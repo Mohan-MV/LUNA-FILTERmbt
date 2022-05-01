@@ -45,13 +45,9 @@ async def start(client, message):
             InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
             ],[
-
             InlineKeyboardButton('🎨 ɢʀᴏᴜᴘ',url='https://t.me/Tamil_moviesdaa'),
-
             InlineKeyboardButton('👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ',url='https://t.me/balaSmurugan')
-
-        ]]
-            
+         ]]  
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
             photo=random.choice(PICS),
@@ -93,12 +89,9 @@ async def start(client, message):
             InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
             ],[
-
             InlineKeyboardButton('🎨 ɢʀᴏᴜᴘ',url='https://t.me/Tamil_moviesdaa'),
-
             InlineKeyboardButton('👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ',url='https://t.me/balaSmurugan')
-
-        ]]
+         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
             photo=random.choice(PICS),
