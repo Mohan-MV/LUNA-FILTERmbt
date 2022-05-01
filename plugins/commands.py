@@ -40,13 +40,15 @@ async def start(client, message):
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/Tamil_moviesdaa')
+            InlineKeyboardButton('🎀 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/Tamil_moviesdaa')
             ],[
-            InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', callback_data='help'),
+            InlineKeyboardButton('🔥 ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
             ],[
-            InlineKeyboardButton('🎨 ɢʀᴏᴜᴘ',url='https://t.me/Tamil_moviesdaa'),
+            InlineKeyboardButton('💥 ɢʀᴏᴜᴘ',url='https://t.me/Tamil_moviesdaa'),
             InlineKeyboardButton('👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ',url='https://t.me/balaSmurugan')
+            ],[
+            InlineKeyboardButton('💖 ʟᴜɴᴀ ʙᴏᴛ',url='https://t.me/rb_luna_bot')
         ]]  
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -84,13 +86,15 @@ async def start(client, message):
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/Tamil_moviesdaa')
+            InlineKeyboardButton('🎀 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/Tamil_moviesdaa')
             ],[
-            InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', callback_data='help'),
+            InlineKeyboardButton('🔥 ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
             ],[
-            InlineKeyboardButton('🎨 ɢʀᴏᴜᴘ',url='https://t.me/Tamil_moviesdaa'),
+            InlineKeyboardButton('💥 ɢʀᴏᴜᴘ',url='https://t.me/Tamil_moviesdaa'),
             InlineKeyboardButton('👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ',url='https://t.me/balaSmurugan')
+            ],[
+            InlineKeyboardButton('💖 ʟᴜɴᴀ ʙᴏᴛ',url='https://t.me/rb_luna_bot')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
