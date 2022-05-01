@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/EvamariaTG/EvaMaria.git /LUNA-NO-FEATURES
+  git clone https://github.com/BalamuruganDV/LUNA-NO-FEATURES.git /LUNA-NO-FEATURES
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /LUNA-NO-FEATURES
